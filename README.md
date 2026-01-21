@@ -17,6 +17,10 @@
  <br />
  <br />
 **Confira abaixo:**
+ <br />
+  ### Projetos em Power BI ⚡ <br />
+  
+  
 
   
           
