@@ -7,7 +7,14 @@
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<br />
+
+<div align= 'center'>
+
+![](https://komarev.com/ghpvc/?username=lucasgerc&style=for-the-badge)
+
 </div>
+
 <br />
 
  **O objetivo deste perfil é compartilhar projetos envolvendo as várias ferramentas que trabalho, voltados à análise de dados.**
@@ -19,13 +26,8 @@
 **Confira abaixo:**
  <br />
   ### Projetos em Power BI ⚡ <br />
- - [Projeto 1 - Análise de vendas e Performance - Clique aqui](https://github.com/lucasgerc/Analise_vendas)
-  
-  
+ - [Projeto 1 - Análise de vendas e Performance - Clique aqui](https://github.com/lucasgerc/Analise_vendas) <br />
 
-  
-          
-          
-
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
