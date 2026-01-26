@@ -1,6 +1,6 @@
 # 📌 Olá, eu sou o Lucas Gerçossimo!!!
 - 🎯 Gerando valor com dados!
-- 📊 Python aplicado a análise de dados
+- 📊 Python aplicado a análise de dados e mercado financeiro
 - 📚 Conhecimentos em: Python, Microsoft Excel, Microsoft Power bi, Power query, Modelagem de dados, MySQL, PostgreSQL <div style="display: inline_block"><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -25,7 +25,10 @@
 **Confira abaixo:**
  <br />
   ### Projetos em Power BI ⚡ <br />
- - [Projeto 1 - Análise de vendas e Performance - Clique aqui](https://github.com/lucasgerc/Analise_vendas) <br />
+ - [Projeto 1 - Análise de vendas e Performance - Clique aqui](https://github.com/lucasgerc/Analise_vendas)
+  
+  ### Projetos em Excel 📄
+ - [Projeto 1 - Perfil de Cliente - Clique aqui](https://github.com/lucasgerc/Perfil_Cliente) <br />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
