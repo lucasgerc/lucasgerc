@@ -31,7 +31,7 @@
  - [Projeto 1 - Perfil de Cliente - Clique aqui](https://github.com/lucasgerc/Perfil_Cliente)
 
  ### Projetos em Python 🐍
-- [Projeto 1 - Análise exploratória de um dataset de salários em empregos de tecnologia na Índia](https://github.com/lucasgerc/Analise_salarios) <br />
+- [Projeto 1 - Análise exploratória de um dataset de salários - Clique Aqui](https://github.com/lucasgerc/Analise_salarios) <br />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
