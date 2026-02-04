@@ -16,7 +16,7 @@
 
 <br />
 
- **O objetivo deste perfil é compartilhar projetos envolvendo as várias ferramentas que trabalho, voltados à análise de dados.**
+ **O objetivo deste perfil é compartilhar projetos envolvendo as várias ferramentas que trabalho, voltadas à análise de dados.**
  <br />
 
 **Observação: A visualização dos projetos fica melhor pelo computador, evitando distorções das imagens e dos vídeos.**
@@ -32,6 +32,8 @@
 
  ### Projetos em Python 🐍
 - [Projeto 1 - Análise exploratória de um dataset de salários - Clique Aqui](https://github.com/lucasgerc/Analise_salarios) <br />
+
+### Projetos em SQL 💾
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
