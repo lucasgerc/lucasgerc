@@ -34,7 +34,7 @@
 - [Projeto 1 - Análise exploratória de um dataset de salários - Clique Aqui](https://github.com/lucasgerc/Analise_salarios) <br />
 
 ### Projetos em SQL 💾
-- [Projeto 1 - Análise de um E-Commerce de veículos - Clique Aqui](https://github.com/lucasgerc/Analise_vendas_veiculos)
+- [Projeto 1 - Análise de um E-commerce de veículos - Clique Aqui](https://github.com/lucasgerc/Analise_vendas_veiculos)
 
   <br />
 
