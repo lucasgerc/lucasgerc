@@ -39,6 +39,8 @@
 
   <br />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
+<div align= 'center'>
+  
+ ![GIF](https://github.com/user-attachments/assets/f70724cd-b628-4d5c-86ca-fe9f06932c1f)
+ </div>
+
