@@ -1,5 +1,6 @@
 # 📌 Olá, eu sou o Lucas Gerçossimo!!!
 - 🎯 Gerando valor com dados!
+- 🎓 Graduando em Economia
 - 📊 Python aplicado a análise de dados e mercado financeiro
 - 📚 Conhecimentos em: Python, Microsoft Excel, Microsoft Power bi, Power query, Modelagem de dados, MySQL, PostgreSQL <div style="display: inline_block"><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
