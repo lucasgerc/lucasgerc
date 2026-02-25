@@ -32,7 +32,10 @@
  - [Projeto 1 - Perfil de Cliente - Clique aqui](https://github.com/lucasgerc/Perfil_Cliente)
 
  ### Projetos em Python 🐍
-- [Projeto 1 - Análise exploratória de um dataset de salários - Clique Aqui](https://github.com/lucasgerc/Analise_salarios) <br />
+- [Projeto 1 - Análise exploratória de um dataset de salários - Clique Aqui](https://github.com/lucasgerc/Analise_salarios)
+
+
+- [Projeto 2 - Comparador de açoes e fiis da B3 vs Benchmarks](https://github.com/lucasgerc/comparador_b3)
 
 ### Projetos em SQL 💾
 - [Projeto 1 - Análise de um E-commerce de veículos - Clique Aqui](https://github.com/lucasgerc/Analise_vendas_veiculos)
