@@ -27,6 +27,7 @@
  <br />
   ### Projetos em Power BI ⚡ <br />
  - [Projeto 1 - Análise de vendas e Performance - Clique aqui](https://github.com/lucasgerc/Analise_vendas)
+ - [Projeto 2 - Painel Comercial e analítico de vendas - Clique aqui](https://github.com/lucasgerc/Painel_Comercial)
   
   ### Projetos em Excel 📄
  - [Projeto 1 - Perfil de Cliente - Clique aqui](https://github.com/lucasgerc/Perfil_Cliente)
@@ -35,7 +36,7 @@
 - [Projeto 1 - Análise exploratória de um dataset de salários - Clique Aqui](https://github.com/lucasgerc/Analise_salarios)
 
 
-- [Projeto 2 - Comparador de açoes e fiis da B3 vs Benchmarks](https://github.com/lucasgerc/comparador_b3)
+- [Projeto 2 - Comparador de açoes e fiis da B3 vs Benchmarks - Clique Aqui](https://github.com/lucasgerc/comparador_b3)
 
 ### Projetos em SQL 💾
 - [Projeto 1 - Análise de um E-commerce de veículos - Clique Aqui](https://github.com/lucasgerc/Analise_vendas_veiculos)
