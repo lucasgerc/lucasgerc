@@ -27,6 +27,8 @@
  <br />
   ### Projetos em Power BI ⚡ <br />
  - [Projeto 1 - Análise de vendas e Performance - Clique aqui](https://github.com/lucasgerc/Analise_vendas)
+
+ 
  - [Projeto 2 - Painel Comercial e analítico de vendas - Clique aqui](https://github.com/lucasgerc/Painel_Comercial)
   
   ### Projetos em Excel 📄
