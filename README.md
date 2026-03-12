@@ -34,6 +34,9 @@
   ### Projetos em Excel 📄
  - [Projeto 1 - Perfil de Cliente - Clique aqui](https://github.com/lucasgerc/Perfil_Cliente)
 
+ 
+ - [Projeto 2 - Dashboard e Análise Completa de RH - Clique aqui](https://github.com/lucasgerc/Analise_rh)
+
  ### Projetos em Python 🐍
 - [Projeto 1 - Análise exploratória de um dataset de salários - Clique Aqui](https://github.com/lucasgerc/Analise_salarios)
 
