@@ -1,7 +1,6 @@
 # 📌 Olá, eu sou o Lucas Gerçossimo!!!
-- 🎯 Gerando valor com dados!
 - 🎓 Graduando em Economia
-- 📊 Python aplicado a análise de dados e mercado financeiro
+- 📊 Análise de Dados e Mercado Financeiro
 - 📚 Conhecimentos em: Python, Microsoft Excel, Microsoft Power bi, Power query, Modelagem de dados, MySQL, PostgreSQL <div style="display: inline_block"><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -37,6 +36,9 @@
  
  - [Projeto 2 - Dashboard e Análise Completa de RH - Clique aqui](https://github.com/lucasgerc/Analise_rh)
 
+
+ - [Projeto 3 - Modelagem Financeira e Valuation C&A - Clique aqui](https://github.com/lucasgerc/Valuation_DCF)
+
  ### Projetos em Python 🐍
 - [Projeto 1 - Análise exploratória de um dataset de salários - Clique Aqui](https://github.com/lucasgerc/Analise_salarios)
 
@@ -50,6 +52,4 @@
 
 <div align= 'center'>
   
- ![GIF](https://github.com/user-attachments/assets/f70724cd-b628-4d5c-86ca-fe9f06932c1f)
- </div>
-
+<img width="480" height="360" alt="gif" src="https://github.com/user-attachments/assets/171c98bc-be37-4652-ba90-b3961b757c33" />
